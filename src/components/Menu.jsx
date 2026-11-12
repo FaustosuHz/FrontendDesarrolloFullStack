@@ -24,7 +24,7 @@ const Menu = () => {
     <Container className="menu">
       <Row className="align-items-center">
         <Col>
-          <h2>Mi Biblioteca</h2>
+          <h2>CapituloIX</h2>
         </Col>
         <Col className="menu-links">
           <NavLink to="/dashboard" end>Mis libros</NavLink>

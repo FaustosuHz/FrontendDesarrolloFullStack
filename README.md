@@ -1,4 +1,4 @@
-# Mi Biblioteca - Frontend
+# CapituloIX - Frontend
 
 Frontend del obligatorio 2 de Desarrollo Full Stack. Consume la API desarrollada en el obligatorio 1.
 
